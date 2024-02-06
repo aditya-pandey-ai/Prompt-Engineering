@@ -16,7 +16,7 @@
   <li>Iterative Search for Solution</li>
 </ul>
 
-![Chat 1 Answer Image](/Users/aditya/Project/cot1a.png)
+![Chat 1 Answer Image](cot1a.png)
 
 **Summary:**
 <details>
@@ -32,7 +32,7 @@
 
 ## Chat 1.1
 [Chat 1.1 Link](https://chat.openai.com/share/52fec345-5f19-4782-bbd3-b1b47393aa24) <br>
-![Chat 1.1 Question Image](/Users/aditya/Project/cot1-1q.png)
+![Chat 1.1 Question Image](cot1-1q.png)
 
 **Summary:**
 <details>
@@ -46,7 +46,7 @@
   <li>Iterative Search for Solution</li>
 </ul>
 
-![Chat 1.1 Answer Image](/Users/aditya/Project/cot1-1a.png)
+![Chat 1.1 Answer Image](cot1-1a.png)
 
 **Summary:**
 <details>
