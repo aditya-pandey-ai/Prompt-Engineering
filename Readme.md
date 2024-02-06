@@ -2,7 +2,7 @@
 
 ## Chat 1
 [Chat 1 Link](https://chat.openai.com/share/1c306f68-4ef4-420b-966a-f4e981e9d28f) <br>
-![Chat 1 Question Image](/Users/aditya/Project/cot1q.png)
+![Chat 1 Question Image](cot1-1a.png)
 
 **Summary:**
 <details>
