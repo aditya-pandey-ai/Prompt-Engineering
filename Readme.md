@@ -60,45 +60,41 @@ By altering the thought process of the LLM we can get our desired result
 
 
 ## Chat 2
-![Chat 2 Image](path/to/chat2/image.png)
+![Chat 2 Image](s1.png)
 
 **Summary:**
 <details>
-  <summary style="color: #008080; font-size: 1.2em;">Provide a summary of the main content and context of this chat.</summary>
-  <p style="color: #333;">Add any personal reflections or observations related to this chat.</p>
+  <summary style="color: #008080; font-size: 1.2em;">In this chat i asked ChatGPT to analyse the sentiment of a text and classify it as Positive, Negative or Neutral</p>
 </details>
 
 **Key Takeaways:**
 <ol style="list-style-type: decimal; color: #800080;">
-  <li>Takeaway 1</li>
-  <li>Takeaway 2</li>
-  <li>Takeaway 3</li>
+  <li>We alter it's thought process</li>
+  <li>We ask it to categorize it's opinion</li>
 </ol>
 
 **Reflection:**
 <blockquote style="background-color: #f0f0f0; padding: 10px; border-left: 5px solid #800080; color: #333;">
-  Share any personal reflections or observations related to this chat.
+  If we ask GPT for it's observation it tells us The text expresses a positive sentiment as the speaker describes the blue moon as "very beautiful."
 </blockquote>
 
-## Chat 3
-![Chat 3 Image](path/to/chat3/image.png)
+## Chat 2.1
+![Chat 2.1 Image](s2.png)
 
 **Overview:**
 <details>
-  <summary style="color: #008080; font-size: 1.2em;">Give an overview of the themes, questions, or information exchanged in this chat.</summary>
-  <p style="color: #333;">Share any new information or insights gained from this conversation.</p>
+  <summary style="color: #008080; font-size: 1.2em;">In this chat I create a sentiment analysis which combines Chain of Thoughts and Few-Shot Prompting</p>
 </details>
 
 **Significant Details:**
 <ul style="list-style-type: square; color: #800000;">
-  <li>Detail 1</li>
-  <li>Detail 2</li>
-  <li>Detail 3</li>
+  <li>We drive it's thought process to conclusion</li>
+  <li>We give it a similar text to analyse</li>
 </ul>
 
 **Learnings:**
 <blockquote style="background-color: #f0f0f0; padding: 10px; border-left: 5px solid #800000; color: #333;">
-  Share any new information or insights gained from this conversation.
+  By giving it a Few-shot prompt method we can derieve it's sentiment analysis as well as it's thought process
 </blockquote>
 
 ...
