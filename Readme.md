@@ -1,7 +1,6 @@
 # Chat Explanations
 
 ## Chat 1
-[Chat 1 Link](https://chat.openai.com/share/1c306f68-4ef4-420b-966a-f4e981e9d28f) <br>
 ![Chat 1 Question Image](cot1q.png)
 
 **Summary:**
@@ -31,7 +30,6 @@
 </blockquote>
 
 ## Chat 1.1
-[Chat 1.1 Link](https://chat.openai.com/share/52fec345-5f19-4782-bbd3-b1b47393aa24) <br>
 ![Chat 1.1 Question Image](cot1-1q.png)
 
 **Summary:**
